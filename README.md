@@ -1,13 +1,3 @@
-# joomla-detect
+# Cms Detect
 
-output example:
-
-root@underground# ./dr4x-jom.sh
-
-Wordlist: 
-
-two.txt
-
-www.google.com - NOT RUN JOOMLA
-
-www.sfj.pt - RUN JOOMLA
+Periodically scripts to detect cms will be posted, the existing ones will also be updated when necessary.
