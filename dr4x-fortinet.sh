@@ -9,7 +9,7 @@ request=$(timeout 3 curl -s -k https://$i/ |grep "remote" |grep -oP "/remote/log
 if [ "$request" = "/remote/login" ]
 then
 echo -e "$i - Running Fortinet SSL"
-echo -e "https://$i:10443/" >> 3
+echo -e "https://$i/" >> fort_save
 else
 echo -e "$i - Don't Running Fortinet SSL"
 fi
