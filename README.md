@@ -8,6 +8,6 @@ Wordlist:
 
 two.txt
 
-www.google.com - NOT RUN NOT RUN JOOMLA
+www.google.com - NOT RUN JOOMLA
 
 www.sfj.pt - RUN JOOMLA
